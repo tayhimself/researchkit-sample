@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/sq022/iOSdev/ResearchKit-Sample/RKConsentTest.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
